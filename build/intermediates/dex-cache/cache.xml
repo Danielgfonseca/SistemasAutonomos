@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_38621e1b0e978bec29743ff227790bd08bc5b506.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_7515577c0aa3fe7f25f4470f9cb0f3d2c8246e6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_87527cec1c327c89b88f159a38c00f40138d808a.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_77d28605b294437ea4aaca668747e638541f4631.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_3d5c8c7947a68389341fc42cc1b77d8c6e3ccc51.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_02857f9b3cefaaa57fadaa0b64b9d7b2bd5b793e.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_7f9e88a5ed0349420e787f26aaf63e715c0d22fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ced90785e63a9d8eb6f85029dee54fdbc351eecf.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_5216f90098abcb4a4ee1f9ac141cc9639beea33d.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_525cf6066046f66c73daf21a9663c770fa917889.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_164e10d105bc88b339b363355638d625ae3e7888.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_38e49516677cc00ef8b7856c5285f56454c9e6fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_84e42810a5bb924aa53679ebcc5355d85451cbb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_253a246d21ff396907ade48a4e26d6882f6007b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_49dfd621778de078116163375ee9282b092b0718.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_d98fcb16db47bdecb1825b237d576f979aa28418.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_2cbf596136650f9a0157755630e473611090fbd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_aa2f0f7ef9bbb0c6b772876846109a0ef2ff991a.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0565640fe9da712947e41e20f2d2e7c2266c464f.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_fbb13a2341b08e0862b012d06d969d0b79ae0b5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\danie\AndroidStudioProjects\FaceTracker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_2862aa9fab96bf2eaca7c3f914f43321b1e681ff.jar" />
+    </item>
+
+</items>
